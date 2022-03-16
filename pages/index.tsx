@@ -18,6 +18,7 @@ export default function Home() {
       <Head>
         <title>Buscador</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
       </Head>
 
       <Layout>
